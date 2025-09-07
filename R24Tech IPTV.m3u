@@ -466,3 +466,8 @@ https://tvsen6.aynaott.com/AbuDhabiSports2/index.m3u8
 #Channel → 117
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg",Ad Sports 2
 https://tvsen6.aynaott.com/BahrainSports1/index.m3u8
+
+# ======🇾🇪YEMEN CHANNEL======
+#Channel → 118
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.journalistsupport.net/static/images/750x440/12c8b0ec7f14d9b14054d43f09c00faf.jpg" group-title="🇾🇪 Yemen", Al Masirah
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
