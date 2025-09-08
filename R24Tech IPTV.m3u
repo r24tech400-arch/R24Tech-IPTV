@@ -485,5 +485,5 @@ https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
 https://starmenajo.com/hls/yemenshabab/index.m3u8
 
 #Channel → 122
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXPyVQV7bpK1QiJBZ32qIe82lceXq6YrwAA&s" 🇾🇪 Yemen", Yemen today
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXPyVQV7bpK1QiJBZ32qIe82lceXq6YrwAA&s" group-title="🇾🇪 Yemen", Yemen today
 https://video.yementdy.tv/hls/yementoday_low.m3u8
