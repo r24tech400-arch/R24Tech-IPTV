@@ -469,23 +469,28 @@ https://tvsen6.aynaott.com/BahrainSports1/index.m3u8
 
 # ======🇾🇪YEMEN CHANNEL======
 #Channel → 118
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.journalistsupport.net/static/images/750x440/12c8b0ec7f14d9b14054d43f09c00faf.jpg" group-title="🇾🇪 Yemen", Al Masirah
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.journalistsupport.net/static/images/750x440/12c8b0ec7f14d9b14054d43f09c00faf.jpg" group-title="
+🇾🇪Sanaa, Yemen", Al Masirah
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 
 #Channel → 119
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/almasirah-mubasher-ye.png" group-title="🇾🇪 Yemen", Al Masirah Mubacher
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/almasirah-mubasher-ye.png" group-title="
+🇾🇪Sanaa, Yemen", Al Masirah Mubacher
 https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
 
 #Channel → 120
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSST0rbFaHkvBQzyLvcWhmPi9MNcMF2FtamOg&s" group-title="🇾🇪 Yemen", Al Shafat TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSST0rbFaHkvBQzyLvcWhmPi9MNcMF2FtamOg&s" group-title="
+🇾🇪Sanaa, Yemen", Al Shafat TV
 https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
 
 #Channel → 121
-#EXTINF:-1 tvg-id="" tvg-logo="https://media0084.elcinema.com/tvguide/1403_1.png" group-title="🇾🇪 Yemen", Yemen Shabab Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://media0084.elcinema.com/tvguide/1403_1.png" group-title="
+🇾🇪Sanaa, Yemen", Yemen Shabab Channel
 https://starmenajo.com/hls/yemenshabab/index.m3u8
 
 #Channel → 122
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXPyVQV7bpK1QiJBZ32qIe82lceXq6YrwAA&s" group-title="🇾🇪 Yemen", Yemen today
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXPyVQV7bpK1QiJBZ32qIe82lceXq6YrwAA&s" group-title="
+🇾🇪Sanaa, Yemen", Yemen today
 https://video.yementdy.tv/hls/yementoday_low.m3u8
 
 
