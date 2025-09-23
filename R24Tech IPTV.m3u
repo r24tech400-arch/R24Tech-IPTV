@@ -5,15 +5,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #Channel → 002
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV World
-https://tvsen6.aynaott.com/btvhd/index.m3u8
+#https://tvsen6.aynaott.com/btvhd/index.m3u8
 
 #Channel → 003
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV News
-https://tvsen6.aynaott.com/btvctg/index.m3u8
+#https://tvsen6.aynaott.com/btvctg/index.m3u8
 
 #Channel → 004
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV
-https://tvsen6.aynaott.com/somoytv/index.m3u8
+#https://tvsen6.aynaott.com/somoytv/index.m3u8
 
 #Channel → 005
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV-[2]
@@ -25,11 +25,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #Channel → 007
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV-2
-https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
+#https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
 
 #Channel → 008
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekhon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekon tv
-https://tvsen6.aynaott.com/ekhontv/index.m3u8
+#https://tvsen6.aynaott.com/ekhontv/index.m3u8
 
 #Channel → 009
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
@@ -45,11 +45,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #Channel → 012
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png",NEWS 24 HD
-https://tvsen6.aynaott.com/news24/index.m3u8
+#https://tvsen6.aynaott.com/news24/index.m3u8
 
 #Channel → 013
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",DBC News
-https://tvsen6.aynaott.com/dbcnews/index.m3u8
+#https://tvsen6.aynaott.com/dbcnews/index.m3u8
 
 #Channel → 014
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",ATN NEWS [BD]
@@ -65,23 +65,23 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #Channel → 017
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png",RTV
-https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#https://tvsen5.aynaott.com/RtvHD/index.m3u8
 
 #Channel → 018
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",Banglavision
-https://tvsen5.aynaott.com/banglavision/index.m3u8
+#https://tvsen5.aynaott.com/banglavision/index.m3u8
 
 #Channel → 019
 #EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png",SATV
-https://tvsen6.aynaott.com/satv/index.m3u8
+#https://tvsen6.aynaott.com/satv/index.m3u8
 
 #Channel → 020
 #EXTINF:-14 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png",BOISHAKHI TV
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8
+#https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 
 #Channel → 021
 #EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
-https://tvsen6.aynaott.com/etv/index.m3u8
+#https://tvsen6.aynaott.com/etv/index.m3u8
 
 #Channel → 022
 #EXTINF:-17 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png",Channel I
@@ -97,11 +97,11 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #Channel → 025
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png", GAZI TV
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
+#https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #Channel → 026
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg",Desh TV
-https://tvsen6.aynaott.com/deshtv/index.m3u8
+#https://tvsen6.aynaott.com/deshtv/index.m3u8
 
 #Channel → 027
 #EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png",MY TV HD
@@ -110,11 +110,11 @@ https://mytvbangla.com/0.m3u8
 #Channel → 028
 #EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png",Mohona Tv
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8
-https://tvsen6.aynaott.com/mohonatv/index.m3u8
+#https://tvsen6.aynaott.com/mohonatv/index.m3u8
 
 #Channel → 029
 #EXTINF:-35 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png",Asian TV
-https://tvsen6.aynaott.com/asiantv/index.m3u8
+#https://tvsen6.aynaott.com/asiantv/index.m3u8
 
 #Channel → 030
 #EXTINF:-1 tvg-logo="", Me-tv
@@ -174,7 +174,7 @@ https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
 
 #Channel → 044
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png",Pogo
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
 #Channel → 045
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png", Cartoon Network English
@@ -182,7 +182,7 @@ https://app.hughag.store/api/68b0f4e13e/playlist.m3u8
 
 #Channel → 046
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png",Discovery Bangla
-https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
+#https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
 
 #Channel → 047
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png",NAT GEO HD
@@ -190,7 +190,7 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3684.ts
 
 #Channel → 048
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",Net Geo wild
-http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #Channel → 049
 #EXTINF:-68 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924",Travel xp
@@ -198,7 +198,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #Channel → 050
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png", Animal Planet HD
-https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8
+#https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8
 
 #Channel → 051
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350",Star Jalsha HD
@@ -234,15 +234,15 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 #Channel → 059
 #EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj",Akash Aath
-https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
+#https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 
 #Channel → 060
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg", Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+#https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
 #Channel → 061
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg", Enter 10 Bangla
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
 #Channel → 062
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg", Ruposhi Bangla
@@ -266,11 +266,11 @@ https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
 
 #Channel → 067
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png",Kalkata tv
-https://tvsen6.aynaott.com/kolkatatv/index.m3u8
+#https://tvsen6.aynaott.com/kolkatatv/index.m3u8
 
 #Channel → 068
 #EXTINF:-81 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515",Sangeet Bangla
-https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
+#https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
 
 #Channel → 069
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png", 8X music
@@ -282,7 +282,7 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 
 #Channel → 071
 #EXTINF:-89tvg-logo="https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png",B4U Music
-https://tvsen6.aynaott.com/b4umusic/index.m3u8
+#https://tvsen6.aynaott.com/b4umusic/index.m3u8
 
 #Channel → 072
 #EXTINF:-87 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj",Music Mastii
@@ -346,7 +346,7 @@ https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index
 
 #Channel → 087
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png", Sci-fi
-http://45.159.74.22/Kinoseriya/mono.m3u8
+#http://45.159.74.22/Kinoseriya/mono.m3u8
 
 #Channel → 088
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",My Cinema
@@ -358,7 +358,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/sungo546/chunks.m3u8
 
 #Channel → 090
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png", Live Sports-1
-https://tvsen6.aynaott.com/btSport1/index.m3u8
+#https://tvsen6.aynaott.com/btSport1/index.m3u8
 
 #Channel → 091
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png", Live Sports-2
@@ -370,27 +370,27 @@ https://app.hughag.store/api/ef22d71b0e/playlist.m3u8
 
 #Channel → 093
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png", Live Sports-5
-https://tvsen6.aynaott.com/ktvsportsplus/index.m3u8
+#https://tvsen6.aynaott.com/ktvsportsplus/index.m3u8
 
 #Channel → 094
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png", Live Sports-6
-https://tvsen6.aynaott.com/sportsfirsttv/index.m3u8
+#https://tvsen6.aynaott.com/sportsfirsttv/index.m3u8
 
 #Channel → 095
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png", Live Sports-7
-https://tvsen6.aynaott.com/AllSportsTelevisionNetwork/index.m3u8
+#https://tvsen6.aynaott.com/AllSportsTelevisionNetwork/index.m3u8
 
 #Channel → 096
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp8.png", Live Sports-8
-https://tvsen6.aynaott.com/CricketGold/index.m3u8
+#https://tvsen6.aynaott.com/CricketGold/index.m3u8
 
 #Channel → 097
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
-https://tvsen5.aynaott.com/tsports/index.m3u8
+#https://tvsen5.aynaott.com/tsports/index.m3u8
 
 #Channel → 098
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
-https://tvsen5.aynaott.com/tsports/index.m3u8
+#https://tvsen5.aynaott.com/tsports/index.m3u8
 
 #Channel → 099
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
@@ -414,11 +414,11 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 
 #Channel → 104
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png",Star Sports Select 1
-https://tvsen6.aynaott.com/spsel1/index.m3u8
+#https://tvsen6.aynaott.com/spsel1/index.m3u8
 
 #Channel → 105
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports
-http://175.107.244.52:4457/play/a08g/index.m3u8
+#http://175.107.244.52:4457/play/a08g/index.m3u8
 
 #Channel → 106
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports-[2]
@@ -438,7 +438,7 @@ http://filex.tv:8080/live/Multicity/1234/52109.ts
 
 #Channel → 110
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",Willow Extra HD
-https://tvsen5.aynaott.com/willowhd/index.m3u8
+#https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #Channel → 111
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png", Sky Sports Cricket
@@ -458,15 +458,15 @@ https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg1
 
 #Channel → 115
 #EXTINF:-1 tvg-logo="", ERT Sports
-https://tvsen6.aynaott.com/ERTSports1/index.m3u8
+#https://tvsen6.aynaott.com/ERTSports1/index.m3u8
 
 #Channel → 116
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg",Dubai Sports 2
-https://tvsen6.aynaott.com/AbuDhabiSports2/index.m3u8
+#https://tvsen6.aynaott.com/AbuDhabiSports2/index.m3u8
 
 #Channel → 117
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg",Ad Sports 2
-https://tvsen6.aynaott.com/BahrainSports1/index.m3u8
+#https://tvsen6.aynaott.com/BahrainSports1/index.m3u8
 
 
 # ======🇾🇪YEMEN CHANNEL======
@@ -515,7 +515,7 @@ https://htvint.mada.ps/nabluslive/index.m3u8
 
 #Channel → 128
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-Yh5sCr80iXANusJqWvAdmE6qSxi93xEIw&s" group-title="🇵🇸Gaza, Palestine", Palestine Edu
-https://pbc.furrera.ps/PalestineEDU/index.m3u8
+#https://pbc.furrera.ps/PalestineEDU/index.m3u8
 
 #Channel → 129
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWenmqgtjZvawYVG0M8wcMSB4GXeJly2llg&s" group-title="🇵🇸Gaza, Palestine", Palestine Mubasher
@@ -548,7 +548,7 @@ https://htvint.mada.ps/orient/index.m3u8
 
 #Channel → 135
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
-https://tvsen5.aynaott.com/tsports/index.m3u8?e=1753741240&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=b0a46f6a8044d14caad16465ee9c680f
+#https://tvsen5.aynaott.com/tsports/index.m3u8?e=1753741240&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=b0a46f6a8044d14caad16465ee9c680f
 
 #Channel → 136
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
@@ -564,7 +564,7 @@ http://starshare.org:8080/live/RapidDS-Sherry/Sherry33639/124284.ts
 
 #Channel → 139
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
-https://tvsen6.aynaott.com/spsel1/index.m3u8
+#https://tvsen6.aynaott.com/spsel1/index.m3u8
 
 #Channel → 140
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYVKwLhK/Star-Sports-Select-2-HD.jpg",Star Sports Select 2 HD
@@ -576,27 +576,27 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #Channel → 142
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
-https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
+#https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
 
 #Channel → 143
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
-https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
 
 #Channel → 144
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
 #Channel → 145
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 3 HD
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
 #Channel → 146
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YH1WSzz/Sony-Sports-4-HD.jpg",Sony Sports 4 HD
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 #Channel → 147
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #Channel → 148
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFjrsn4P/M-Sports.jpg",M Sports
@@ -608,11 +608,11 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 #Channel → 150
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Fox Cricket 501
-https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-75/xjcd-q2jh/chunklist_DVR.m3u8
+#https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-75/xjcd-q2jh/chunklist_DVR.m3u8
 
 #Channel → 151
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kgfo9ty.jpg",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
+#http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
 
 #Channel → 152
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Redbull TV
@@ -632,43 +632,43 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 #Channel → 156
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zhpfnXry/Ananda-TV.jpg",Ananda TV
-https://tvsen6.aynaott.com/anandatv/index.m3u8
+#https://tvsen6.aynaott.com/anandatv/index.m3u8
 
 #Channel → 157
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxyNJrGm/ATN-News.jpg",ATN News
-https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8
+#https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8
 
 #Channel → 158
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tnFM9wC/Bijoy-TV.jpg",Bijoy TV
-https://tvsen6.aynaott.com/bijoytv/index.m3u8
+#https://tvsen6.aynaott.com/bijoytv/index.m3u8
 
 #Channel → 159
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqXGm6D1/Bangla-TV.jpg",Bangla TV
-https://tvsen6.aynaott.com/banglatv/index.m3u8
+#https://tvsen6.aynaott.com/banglatv/index.m3u8
 
 #Channel → 160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76p1QShQ/BTV-Chattogram.jpg",BTV Chattogram
-https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8
+#https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8
 
 #Channel → 161
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NzFtxgL/Channel-9.jpg",Channel 9
-https://tvsen6.aynaott.com/channel9/tracks-v1a1/mono.ts.m3u8
+#https://tvsen6.aynaott.com/channel9/tracks-v1a1/mono.ts.m3u8
 
 #Channel → 162
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2XchN1w/Ekhon-TV.jpg",Ekhon TV
-https://tvsen6.aynaott.com/ekhontv/index.m3u8
+#https://tvsen6.aynaott.com/ekhontv/index.m3u8
 
 #Channel → 163
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj5XJGD8/Ekushe.jpg",Ekushe ETV
-https://tvsen6.aynaott.com/etv/index.m3u8
+#https://tvsen6.aynaott.com/etv/index.m3u8
 
 #Channel → 164
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XxJ2W4KF/GTV.jpg",GTV HD
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
+#https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #Channel → 165
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJqSzqBb/Global-TV.jpg",Global TV
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8
+#https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 
 #Channel → 166
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg",Magic Bangla TV
@@ -680,15 +680,15 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #Channel → 168
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XY60wPgT/My-TV.jpg",My TV
-https://tvsen6.aynaott.com/mytv/index.m3u8
+#https://tvsen6.aynaott.com/mytv/index.m3u8
 
 #Channel → 169
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q3pnrdLs/Nexus-TV.jpg",Nexus TV
-https://tvsen6.aynaott.com/nexustv/index.m3u8
+#https://tvsen6.aynaott.com/nexustv/index.m3u8
 
 #Channel → 170
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss8dZ7pz/SA-TV.jpg",SA TV
-https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
+#https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
 
 #Channel → 171
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha
@@ -696,7 +696,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
 
 #Channel → 172
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
-https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
+#https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 
 #Channel → 173
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHRc7hTk/Sun-Bangla.jpg",Sun Bangla HD
@@ -760,31 +760,31 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 #Channel → 188
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Shemaroo TV
-https://tvsen6.aynaott.com/ShemarooTV/index.m3u8
+#https://tvsen6.aynaott.com/ShemarooTV/index.m3u8
 
 #Channel → 189
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Marathi
-https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
 
 #Channel → 190
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max 2
-https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 
 #Channel → 191
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Pal
-https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
 #Channel → 192
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Sab
-https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
 #Channel → 193
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-http://103.122.252.100:8080/SONY-TV/tracks-v1a1/mono.m3u8
+#http://103.122.252.100:8080/SONY-TV/tracks-v1a1/mono.m3u8
 
 #Channel → 194
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony WAH
-https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 
 #Channel → 195
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCGRcWyM/Star-Bharat-HD.jpg",Star Bharat HD
@@ -804,7 +804,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #Channel → 199
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",Dhoom Music
-https://tvsen6.aynaott.com/dhoom/index.m3u8
+#https://tvsen6.aynaott.com/dhoom/index.m3u8
 
 #Channel → 200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rEhhYpe.png",Baraza Music TV
@@ -856,7 +856,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 
 #Channel → 212
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
-https://tvsky.noobmaster.xyz//072_CN_HD/tracks-v1a1/mono.m3u8
+#https://tvsky.noobmaster.xyz//072_CN_HD/tracks-v1a1/mono.m3u8
 
 #Channel → 213
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
@@ -896,7 +896,7 @@ http://filex.me:8080/live/1234567890/1234567890/246767.ts
 
 #Channel → 222
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Sony YAY
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 #Channel → 223
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ubZMeQv.jpg",PBS Kids
@@ -932,15 +932,15 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #Channel → 231
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Sony Pix HD
-https://tvsky.noobmaster.xyz//031_Sony_Pix_HD/tracks-v1a1/mono.m3u8
+#https://tvsky.noobmaster.xyz//031_Sony_Pix_HD/tracks-v1a1/mono.m3u8
 
 #Channel → 232
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Star Movies HD
-https://tvsky.noobmaster.xyz//029_Star_Movies_HD/tracks-v1a1/mono.m3u8
+#https://tvsky.noobmaster.xyz//029_Star_Movies_HD/tracks-v1a1/mono.m3u8
 
 #Channel → 233
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
 #Channel → 234
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery Turbo
@@ -952,7 +952,7 @@ http://filex.me:8080/live/1234567890/1234567890/291720.ts
 
 #Channel → 236
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",National Geographic
-https://tvsky.noobmaster.xyz//062_Net_Geo_HD/tracks-v1a1/mono.m3u8
+#https://tvsky.noobmaster.xyz//062_Net_Geo_HD/tracks-v1a1/mono.m3u8
 
 #Channel → 237
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Nat Geo Hindi
@@ -972,7 +972,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #Channel → 241
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Aljazeera
-https://tvsky.noobmaster.xyz//082_Al_Jazeera/tracks-v1a1/mono.m3u8
+#https://tvsky.noobmaster.xyz//082_Al_Jazeera/tracks-v1a1/mono.m3u8
 
 #Channel → 242
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg",CNA News
@@ -1091,8 +1091,8 @@ https://video.primexsports.com/suchnews/live/playlist.m3u8
 http://www.roman.cinimo.ir/copyer/Aavesham.2024.720p.WEB-DL.SoftSub.DigiMoviez.mkv
 
 #Movie → 002 : Lokah Chapter 1
-##EXTINF:8928 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz2SO8yeJH9QeDAHeFtwSPRWJgbs5UQ1PkKwOVseXgBA&s=10" group-title="🎞️ R24Tech Cinematic", Lokah Chapter 1 - Chandra (2025) South Hindi Dubbed Movie HQCam 1080p
-#https://megadl.boats/download/Lokah%20Chapter%201%20Chandra%202025%20Hindi%20Cleaned%20720p%20HQ%20HDTC-[Fullymaza].mkv?download_token=bFNeAtTterLW9F6YToC1AjSemNeqfMSPme888dx0uM56pjwaLMbgFPvnQbusgZqH4IVNShSeXDlcKvRbOzPdGbLey2xf9xHxibhB9vwnlbKHPoYsNRqhBCJ1AneYndyQUAFjaHIwOzL56pjwaJMCKhPyqR8mGH6Vn0ohsRQrAsR56pjwatMJysxVlIe95qML84ggB3d2E6MPQw2fl2lO4TPKazdOvcfeHf54wcAkRHoSn1o8ON49ecGnuHnjkgMIoIVnSkPbTylYCVl0wxMsqwQnOJCU9kCx91yFJm988dx0uugp89hy4p89hy4
+#EXTINF:8928 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz2SO8yeJH9QeDAHeFtwSPRWJgbs5UQ1PkKwOVseXgBA&s=10" group-title="🎞️ R24Tech Cinematic", Lokah Chapter 1 - Chandra (2025) South Hindi Dubbed Movie HQCam 1080p
+https://megadl.boats/download/Lokah%20Chapter%201%20Chandra%202025%20Hindi%20Cleaned%20720p%20HQ%20HDTC-[Fullymaza].mkv?download_token=bFNeAtTterLW9F6YToC1AjSemNeqfMSPme888dx0uM56pjwaLMbgFPvnQbusgZqH4IVNShSeXDlcKvRbOzPdGbLey2xf9xHxibhB9vwnlbKHPoYsNRqhBCJ1AneYndyQUAFjaHIwOzL56pjwaJMCKhPyqR8mGH6Vn0ohsRQrAsR56pjwatMJysxVlIe95qML84ggB3d2E6MPQw2fl2lO4TPKazdOvcfeHf54wcAkRHoSn1o8ON49ecGnuHnjkgMIoIVnSkPbTylYCVl0wxMsqwQnOJCU9kCx91yFJm988dx0uugp89hy4p89hy4
 
 #Movie → 003 : Sijjin
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFGmmgbzBwuCGbZ28D2SZREg-Cf_-Z4HYnDUd6ByPF6g&s=10" group-title="🎞️ R24Tech Cinematic", Sijjin (2023)
