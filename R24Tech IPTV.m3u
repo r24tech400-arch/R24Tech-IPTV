@@ -1062,26 +1062,473 @@ http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.liv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Lahore News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 
-#Channel → 264
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Such TV
-https://video.primexsports.com/suchnews/live/playlist.m3u8
+#Channel → 000
+#EXTINF:-1 tvg-id="" tvg-logo="logo_link_here" group-title="Your_group_name_here" group-title="🌍 Foreign New Channels",  Channel_Name
 
-#Channel → 265 🔴
-#EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports 2
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12331.ts
+#EXTM3U
+#Channel → 265
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="🌍 Foreign New Channels", ABP Ananda [IN]
+https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
 
-#Channel → 266 🔴
-#EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports 3
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12331.ts
+#Channel → 266
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="🌍 Foreign New Channels", EKUSHEY TV [BD]
+https://ekusheyserver.com/etvlivesn.m3u8
 
 #Channel → 267
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎾 Sports", Asia Cup Live English
-https://sonymtpristinenew.akamaized.net/hls/live/2119931/cricacc12409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758764482~acl=/*~id=59152404061005392502671833358690~hmac=b4855a82fe21bea854577e2d509020b64e42655785b50eb8c72ddc7120e240f0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TRfkhjY.png" group-title="🌍 Foreign New Channels", KTV BANGLA IPTV [BD]
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
 #Channel → 268
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎾 Sports", Asia Cup Live Hindi
-#https://sonymtpristinenew.akamaized.net/hls/live/2119921/cricacc12409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758764482~acl=/*~id=59152404061005392502671833358690~hmac=b4855a82fe21bea854577e2d509020b64e42655785b50eb8c72ddc7120e240f0
-https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GKBkm2e.png" group-title="🌍 Foreign New Channels", DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#Channel → 269
+#EXTINF:-1 tvg-logo="https://imgur.com/GKBkm2e.png" group-title="🌍 Foreign New Channels", DESHI TV
+http://208.86.19.13:81/514.stream/index.m3u8
+
+#Channel → 270
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/desiplustv.jpg" group-title="🌍 Foreign New Channels", Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+
+#Channel → 271
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1v4M0v.jpg" group-title="🌍 Foreign New Channels", Moon
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+
+#Channel → 272
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ETVpGyf.png" group-title="🌍 Foreign New Channels", The Q India
+https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8?__nn__=5606168722001&hdnea=st=1566232200~exp=1566235800~acl=/hls/live/784034/Q001/*~hmac=4de929fdc0ee53199a11237ee75a695383a82a42623fa92c1376493e5fc91d7b
+
+#Channel → 273
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSLi73Y.png" group-title="🌍 Foreign New Channels", Prime Canada TV (CA)
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+
+#Channel → 274
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="🌍 Foreign New Channels", Tag TV (Opt-1)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+
+#Channel → 275
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tl7iOAc.png" group-title="🌍 Foreign New Channels", Toronto 360 TV (CA)
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+
+#Channel → 276
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="🌍 Foreign New Channels", Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+
+#Channel → 277
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="🌍 Foreign New Channels", SPACETOON KIDS
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#Channel → 278
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="🌍 Foreign New Channels", Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#Channel → 279
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6zZmZtJ.jpg" group-title="🌍 Foreign New Channels", Bloomberg
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+
+#Channel → 280
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="🌍 Foreign New Channels", CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+
+#Channel → 281
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="🌍 Foreign New Channels", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#Channel → 282
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="🌍 Foreign New Channels", Dunya News (2)
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
+
+#Channel → 283
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="🌍 Foreign New Channels", DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+
+#Channel → 284
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmoYacu.jpg" group-title="🌍 Foreign New Channels", INDIA TODAY
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#Channel → 285
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VEd3y4O.png" group-title="🌍 Foreign New Channels", InfoWars
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+
+#Channel → 286
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GxKLahw.png" group-title="🌍 Foreign New Channels", NDTV 24x7 (2)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#Channel → 287
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBjM4HO.png" group-title="🌍 Foreign New Channels", NDTV India (1)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+
+#Channel → 288
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="🌍 Foreign New Channels", Sky News Extra
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
+#Channel → 289
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="🌍 Foreign New Channels", 30A Music
+https://30a-tv.com/music.m3u8
+
+#Channel → 290
+#EXTINF:-1,4Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#Channel → 291
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="🌍 Foreign New Channels", Ócko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
+
+#Channel → 292
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="🌍 Foreign New Channels", Ócko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
+
+#Channel → 293
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Qmusiclogo2015red.jpg/220px-Qmusiclogo2015red.jpg" group-title="🌍 Foreign New Channels", Q Music
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#Channel → 294
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LRWC8Uo.png" group-title="🌍 Foreign New Channels", Retro
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+
+#Channel → 295
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ijBDV01.png" group-title="🌍 Foreign New Channels", Steel Bird Music FHD
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+#Channel → 296
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png" group-title="🌍 Foreign New Channels", Ekushey TV(BD2)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#Channel → 297
+#EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="🌍 Foreign New Channels", CGTN
+http://iptv.prosto.tv:7000/ch84/video.m3u8
+
+#Channel → 298
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="🌍 Foreign New Channels", NASA TV  (akamai)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#Channel → 299
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="🌍 Foreign New Channels", Cartoon Network RU
+http://iptv.prosto.tv:7000/ch207/video.m3u8
+
+#Channel → 300
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="🌍 Foreign New Channels", Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#Channel → 301
+#EXTINF:-1 ,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#Channel → 302
+#EXTINF:-1 ,Tele 1 (1080p)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
+
+#Channel → 303
+#EXTINF:-1 ,Tele ZURI (720p)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8
+
+#Channel → 304
+#EXTINF:-1 ,1-2-3 TV (480p)
+http://123tv-mx1.flex-cdn.net/index.m3u8
+
+#Channel → 305
+#EXTINF:-1 ,*Das Erste (720p)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+
+#Channel → 306
+#EXTINF:-1 ,5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
+
+#Channel → 307
+#EXTINF:-1 ,7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.com
+
+#Channel → 308
+#EXTINF:-1, Run Time Latino
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+
+#Channel → 309
+#EXTINF:-1, Run Time Films
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#Channel → 310
+#EXTINF:-1, Run Time Espanyol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+
+#Channel → 311
+#EXTINF:-1, Run Time Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+
+#Channel → 312
+#EXTINF:-1, Run Time English
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648
+
+#Channel → 313
+#EXTINF:-1, Run Time France
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
+
+#Channel → 314
+#EXTINF:-1, Run Time Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+
+#Channel → 315
+#EXTINF:-1, Run Time Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+
+#Channel → 316
+#EXTINF:-1, Run Time Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+
+#Channel → 317
+#EXTINF:-1, Run Time Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+
+#Channel → 318
+#EXTINF:-1, Run Time Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+
+#Channel → 319
+#EXTINF:-1, Canela Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#Channel → 320
+#EXTINF:-1, ITV DEPORTES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+
+#Channel → 321
+#EXTINF:-1, AYM Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+
+#Channel → 322
+#EXTINF:-1, Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+
+#Channel → 323
+#EXTINF:-1, Corazón Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+
+#Channel → 324
+#EXTINF:-1, Clic Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+
+#Channel → 325
+#EXTINF:-1, CombaTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
+
+#Channel → 326
+#EXTINF:-1, WPT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
+
+#Channel → 327
+#EXTINF:-1, C4 En Alerta
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+
+#Channel → 328
+#EXTINF:-1, Milenio Televisión
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
+
+#Channel → 329
+#EXTINF:-1, Azteca Uno (-1h)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+
+#Channel → 330
+#EXTINF:-1, Imagen TV+ (-1h)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+
+#Channel → 331
+#EXTINF:-1,Vevo Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#Channel → 332
+#EXTINF:-1,Vevo Iconos Latinos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#Channel → 333
+#EXTINF:-1,Vevo Regional Mexicano
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64dab5fe35425100080e2991/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#Channel → 334
+#EXTINF:-1,Vevo Country
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#Channel → 335
+#EXTINF:-1,Vevo R&B
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#Channel → 336
+#EXTINF:-1,Vevo '70s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#Channel → 337
+#EXTINF:-1,Vevo '80s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#Channel → 338
+#EXTINF:-1,Vevo '90s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#Channel → 339
+#EXTINF:-1,Vevo 2K
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#Channel → 340
+#EXTINF:-1,Vevo Hip-Hop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#Channel → 341
+#EXTINF:-1 tvg-id="XHOAHTDT.mx" tvg-name="Canal 6 LAG" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="🌍 Foreign New Channels", Canal 6 LAG
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#Channel → 342
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GDL" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="🌍 Foreign New Channels", Canal 6 GDL
+http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#Channel → 343
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 PUE" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="🌍 Foreign New Channels", Canal 6 PUE
+http://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+
+#Channel → 344
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GTO" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="🌍 Foreign New Channels", Canal 6 GTO
+http://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+
+#Channel → 345
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 SAL" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="🌍 Foreign New Channels", Canal 6 SAL
+http://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+
+#Channel → 346
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDJ" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="🌍 Foreign New Channels", Canal 6 CDJ
+http://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+
+#Channel → 347
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 8 SJCR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="🌍 Foreign New Channels", Canal 8 SJCR
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#Channel → 348
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png" group-title="🌍 Foreign New Channels", Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#Channel → 349
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png" group-title="🌍 Foreign New Channels",  Milenio Televisión
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#Channel → 350
+#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2024/02/29174858/logoheader-e1709250778948.png" group-title="🌍 Foreign New Channels", Mexiquense Televisión
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#Channel → 351
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://yt3.googleusercontent.com/gJzhEWQduAebS-WcB-5vE4ZpUWdTK2JIA_zJsigI5EQZMXQcbrVesBk5LrfLb4deU7u7knsxeQ=s900-c-k-c0x00ffffff-no-rj" group-title="🌍 Foreign New Channels", AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#Channel → 352
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Jalisco-TV_logotype.png" group-title="🌍 Foreign New Channels", Jalisco TV
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+
+#Channel → 353
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Canal-28-Nuevo-Leon-en-VIVO-Online-.png" group-title="🌍 Foreign New Channels", Canal 28 NL
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+
+#Channel → 354
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4 Gto." tvg-logo="https://tvcuatro.tv/images/logo-menu.png" group-title="🌍 Foreign New Channels", TV4 Gto.
+https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
+
+#Channel → 355
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.3 Gto." tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online.png" group-title="🌍 Foreign New Channels", TV4.3 Gto.
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+
+#Channel → 356
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diez Chiapas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Logotipo_oficial_del_Canal_10_Chiapas_perteneciente_al_Sistema_Chiapaneco_de_Radio%2C_Televisi%C3%B3n_y_Cinematograf%C3%ADa.png" group-title="🌍 Foreign New Channels", Diez Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
+#Channel → 357
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMRTV 16.1" tvg-logo="https://sistemamichoacano.tv/wp-content/uploads/2022/04/cropped-logo-smrtv-web-1.jpg" group-title="🌍 Foreign New Channels", SMRTV 16.1
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+
+#Channel → 358
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mas 26.1" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Mas-Veracruz-en-vivo-Online.png" group-title="🌍 Foreign New Channels", TV Mas 26.1
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#Channel → 359
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sizart TV" tvg-logo="https://www.sizart.org.mx/images/WhatsApp_Image_2022-02-04_at_72759_PM.jpeg" group-title="🌍 Foreign New Channels", Sizart TV
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+
+#Channel → 360
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTQ" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/LOGO-TV.png" group-title="🌍 Foreign New Channels", RTQ
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+
+#Channel → 361
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Cancún/Heraldo Televisión Canal 8" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="🌍 Foreign New Channels", Canal 10 Cancún/Heraldo Televisión Canal 8
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#Channel → 362
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531194-8c.png" group-title="🌍 Foreign New Channels", Justicia TV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
+#Channel → 363
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Espańol)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425396-8c.png" group-title="🌍 Foreign New Channels", RT (Espańol)
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+
+#Channel → 364
+#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Espańol)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png" group-title="🌍 Foreign New Channels", DW (Espańol)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
+#Channel → 365
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Espańol" tvg-logo="" group-title="🌍 Foreign New Channels",  CGTN Espańol
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#Channel → 366
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="🌍 Foreign New Channels",  ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#Channel → 367
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1038568-8c.png" group-title="🌍 Foreign New Channels",  ADN40 (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#Channel → 368
+#EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2023/05/valogo4.png" group-title="🌍 Foreign New Channels",  VA+ 26.1
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+
+#Channel → 369
+#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/radioenvivo/images/recta-pfm-tv.png" group-title="🌍 Foreign New Channels",  Portal FoxMix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#Channel → 370
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png" group-title="🌍 Foreign New Channels",  Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#Channel → 371
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f12080cb1fe8a90df78e425df3f7a6d3.webp" group-title="🌍 Foreign New Channels",  m2o TV
+https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#Channel → 372
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2023/06/latina-tv.jpg" group-title="🌍 Foreign New Channels",  Latina TV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+
+#Channel → 373
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/92304f302ee6793a5539dd19d3261ed2.webp" group-title="🌍 Foreign New Channels",  RCKTV
+https://inliveserver.com:1936/11530/11530/playlist.m3u8
+
+#Channel → 374
+#EXTINF:-1 tvg-logo="https://theretrochannel.tv/img/retroplayer.jpg" group-title="🌍 Foreign New Channels",  The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#Channel → 375
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/82feb5_a2f12f6a37674d0992e2ee48d08b0fd4~mv2_d_1280_1235_s_2.jpg" group-title="🌍 Foreign New Channels",  TV vconline.cl
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+
+#Channel → 376
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6Oh8gjWt6z8/X3pWO0u5KcI/AAAAAAAAHy0/s9Kss3RRtnIylSWcoiC3UwuevHBModlogCK4BGAYYCw/s1600/video%2Btour%2Bchannel.jpg" group-title="🌍 Foreign New Channels",  Video Tour Channel
+https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
+
+#Channel → 377
+#EXTINF:-1 tvg-logo="" group-title="🌍 Foreign New Channels",  Turbo Mix TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#Channel → 378
+#EXTINF:-1, EWTN
+http://45.228.234.167:8000/play/a05b/index.m3u8
+
+#Channel → 379
+#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416625-8c.png" group-title="🌍 Foreign New Channels", María Visión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+
+#Channel → 380
+#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png" group-title="🌍 Foreign New Channels", EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #🌹🌹__This Item is zust for test item only__🌹🌹
 
