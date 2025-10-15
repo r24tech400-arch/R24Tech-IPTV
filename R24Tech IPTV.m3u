@@ -1526,6 +1526,48 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png" group-title="🌍 Foreign New Channels", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
+# == 📻 Radio _ Channel Playlist==
+
+#Radio Center → 001
+#EXTINF:-1 tvg-id="" tvg-logo="https://24fm.ps/wp-content/uploads/2021/12/logo-1.png" group-title="🇵🇸 Palestine Radio", 24_FM
+https://icecast.mada.ps:8402/24fm
+
+#Radio Center → 002
+#EXTINF:-1 tvg-id="" tvg-logo="https://arn.ps/cached_uploads/fit/560/436/n/2023/03/16/anews20234-1678979001.png?_mhk=62a7b52d960c80adb5513198f51fe39a" group-title="🇵🇸 Palestine Radio", Azyal
+https://streamer.mada.ps:8208/ajyal
+
+#Radio Center → 003
+#EXTINF:-1 tvg-id="" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/72AODQCvXh3fGO2tDQaB_1XkfxcVzB4s0fcHrlLoDmg/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMmM2M2U1ZTItNjkzMC00NGFmLTg1YjMtYWI1NTIzYzRhY2JlL2ltYWdlLz91PTE3MTM5NjQ5OTYwMDA.webp" group-title="🇵🇸 Palestine Radio",Ramallah >> Angham Radio
+https://streamer.mada.ps:8207/ANGHAM
+
+#Radio Center → 004
+#EXTINF:-1 tvg-id="" tvg-logo="https://basma.ps/images/logo.png" group-title="🇵🇸 Palestine Radio", Rawabi >> Basma FM 101.2
+https://mars.streamerr.co/8342/stream
+
+#Radio Center → 005
+#EXTINF:-1 tvg-id="" tvg-logo="https://fajer.fm/Logo_FajerFM.png" group-title="🇵🇸 Palestine Radio", Tulkarm >> Fazer FM
+https://rstream.hadara.ps/proxy/fajerfm/stream
+
+#Radio Center → 006
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-media.streema.com/media/cache/d9/84/d9841c4e470dd8c1a8865c5367dba010.jpg" group-title="🇵🇸 Palestine Radio", Hebron >> Hebron Radio 90.4
+https://streaming.zaytonatube.com/HebronRadio.aac/;
+
+#Radio Center → 007
+#EXTINF:-1 tvg-id="" tvg-logo="https://hrfm.co/static/img/Logo_PNG_No_Tagline_V2.png" group-title="🇵🇸 Palestine Radio", Hebron >> HR
+https://hr.ps/stream
+
+#Radio Center → 008
+#EXTINF:-1 tvg-id="" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/g9sYwh66kEOnY6JLZLlsD1yI996LHB3e8l8DiFlT4as/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYmNjOGI5MTMtY2Q4Ny00YTIxLTg0YzgtYzNmMzdmM2JhMzkyL2ltYWdlLz91PTE3MTM5NjQ5OTYwMDA.webp" group-title="🇵🇸 Palestine Radio", Nablus >> Paranoma FM 103.2
+https://a7.asurahosting.com:8090/radio.mp3
+
+#Radio Center → 009
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkynfNihxTd3kcVfB0yf7SeVrvD9fLSOS0LE6wQWdV7g&s=10" group-title="🇵🇸 Palestine Radio", Nablus >> Quran Radio FM 96.9
+https://quran-radio.org:8080/;
+
+#Radio Center → 010
+#EXTINF:-1 tvg-id="" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/MaLEM2iPwCpVNzxkWPv-kalFsAYlJUyxne7igF78R2c/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvY2U0MDA3YTMtYTU1Yi00ZDUwLTllZWEtY2RiYzA5MTI5NjUwL2ltYWdlLz91PTE3MzU4NDE2MTQwMDA.webp" group-title="🇵🇸 Palestine Radio", Hebron >> Rabea FM 88.7
+https://radio.r4fm.ps/;stream.mp3
+
 #☪️ Islamic Alert -- Life-Death-Life🌹
 
 # =====°TEN EP BASEERA°====
